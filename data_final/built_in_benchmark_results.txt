@@ -1,0 +1,558 @@
+Beginning data collection for 100 iterations
+Run number: 0
+loop took about 0.00000 seconds
+
+Run number: 1
+loop took about 0.00000 seconds
+
+Run number: 2
+loop took about 0.00000 seconds
+
+Run number: 3
+loop took about 0.00000 seconds
+
+Run number: 4
+loop took about 0.00000 seconds
+
+Run number: 5
+loop took about 0.00000 seconds
+
+Run number: 6
+loop took about 0.00000 seconds
+
+Run number: 7
+loop took about 0.00000 seconds
+
+Run number: 8
+loop took about 0.00000 seconds
+
+Run number: 9
+loop took about 0.00000 seconds
+
+Run number: 10
+loop took about 0.00000 seconds
+
+Run number: 11
+loop took about 0.00000 seconds
+
+Run number: 12
+loop took about 0.00000 seconds
+
+Run number: 13
+loop took about 0.00000 seconds
+
+Run number: 14
+loop took about 0.00000 seconds
+
+Run number: 15
+loop took about 0.00000 seconds
+
+Run number: 16
+loop took about 0.00000 seconds
+
+Run number: 17
+loop took about 0.00000 seconds
+
+Run number: 18
+loop took about 0.00000 seconds
+
+Run number: 19
+loop took about 0.00000 seconds
+
+Iterations 100 completed
+Beginning data collection for 1000 iterations
+Run number: 0
+loop took about 0.00000 seconds
+
+Run number: 1
+loop took about 0.00000 seconds
+
+Run number: 2
+loop took about 0.00000 seconds
+
+Run number: 3
+loop took about 0.00000 seconds
+
+Run number: 4
+loop took about 0.00000 seconds
+
+Run number: 5
+loop took about 0.00000 seconds
+
+Run number: 6
+loop took about 0.00000 seconds
+
+Run number: 7
+loop took about 0.00000 seconds
+
+Run number: 8
+loop took about 0.00000 seconds
+
+Run number: 9
+loop took about 0.00000 seconds
+
+Run number: 10
+loop took about 0.00000 seconds
+
+Run number: 11
+loop took about 0.00000 seconds
+
+Run number: 12
+loop took about 0.00000 seconds
+
+Run number: 13
+loop took about 0.00000 seconds
+
+Run number: 14
+loop took about 0.00000 seconds
+
+Run number: 15
+loop took about 0.00000 seconds
+
+Run number: 16
+loop took about 0.00000 seconds
+
+Run number: 17
+loop took about 0.00000 seconds
+
+Run number: 18
+loop took about 0.00000 seconds
+
+Run number: 19
+loop took about 0.00000 seconds
+
+Iterations 1000 completed
+Beginning data collection for 10000 iterations
+Run number: 0
+loop took about 0.00001 seconds
+
+Run number: 1
+loop took about 0.00001 seconds
+
+Run number: 2
+loop took about 0.00001 seconds
+
+Run number: 3
+loop took about 0.00001 seconds
+
+Run number: 4
+loop took about 0.00001 seconds
+
+Run number: 5
+loop took about 0.00001 seconds
+
+Run number: 6
+loop took about 0.00001 seconds
+
+Run number: 7
+loop took about 0.00001 seconds
+
+Run number: 8
+loop took about 0.00001 seconds
+
+Run number: 9
+loop took about 0.00001 seconds
+
+Run number: 10
+loop took about 0.00001 seconds
+
+Run number: 11
+loop took about 0.00001 seconds
+
+Run number: 12
+loop took about 0.00001 seconds
+
+Run number: 13
+loop took about 0.00001 seconds
+
+Run number: 14
+loop took about 0.00001 seconds
+
+Run number: 15
+loop took about 0.00001 seconds
+
+Run number: 16
+loop took about 0.00001 seconds
+
+Run number: 17
+loop took about 0.00001 seconds
+
+Run number: 18
+loop took about 0.00001 seconds
+
+Run number: 19
+loop took about 0.00001 seconds
+
+Iterations 10000 completed
+Beginning data collection for 100000 iterations
+Run number: 0
+loop took about 0.00007 seconds
+
+Run number: 1
+loop took about 0.00009 seconds
+
+Run number: 2
+loop took about 0.00008 seconds
+
+Run number: 3
+loop took about 0.00005 seconds
+
+Run number: 4
+loop took about 0.00009 seconds
+
+Run number: 5
+loop took about 0.00008 seconds
+
+Run number: 6
+loop took about 0.00005 seconds
+
+Run number: 7
+loop took about 0.00008 seconds
+
+Run number: 8
+loop took about 0.00006 seconds
+
+Run number: 9
+loop took about 0.00008 seconds
+
+Run number: 10
+loop took about 0.00008 seconds
+
+Run number: 11
+loop took about 0.00008 seconds
+
+Run number: 12
+loop took about 0.00007 seconds
+
+Run number: 13
+loop took about 0.00007 seconds
+
+Run number: 14
+loop took about 0.00007 seconds
+
+Run number: 15
+loop took about 0.00005 seconds
+
+Run number: 16
+loop took about 0.00008 seconds
+
+Run number: 17
+loop took about 0.00008 seconds
+
+Run number: 18
+loop took about 0.00008 seconds
+
+Run number: 19
+loop took about 0.00007 seconds
+
+Iterations 100000 completed
+Beginning data collection for 1000000 iterations
+Run number: 0
+loop took about 0.00075 seconds
+
+Run number: 1
+loop took about 0.00048 seconds
+
+Run number: 2
+loop took about 0.00072 seconds
+
+Run number: 3
+loop took about 0.00073 seconds
+
+Run number: 4
+loop took about 0.00072 seconds
+
+Run number: 5
+loop took about 0.00077 seconds
+
+Run number: 6
+loop took about 0.00076 seconds
+
+Run number: 7
+loop took about 0.00075 seconds
+
+Run number: 8
+loop took about 0.00072 seconds
+
+Run number: 9
+loop took about 0.00072 seconds
+
+Run number: 10
+loop took about 0.00069 seconds
+
+Run number: 11
+loop took about 0.00069 seconds
+
+Run number: 12
+loop took about 0.00069 seconds
+
+Run number: 13
+loop took about 0.00046 seconds
+
+Run number: 14
+loop took about 0.00061 seconds
+
+Run number: 15
+loop took about 0.00070 seconds
+
+Run number: 16
+loop took about 0.00075 seconds
+
+Run number: 17
+loop took about 0.00078 seconds
+
+Run number: 18
+loop took about 0.00081 seconds
+
+Run number: 19
+loop took about 0.00054 seconds
+
+Iterations 1000000 completed
+Beginning data collection for 10000000 iterations
+Run number: 0
+loop took about 0.00575 seconds
+
+Run number: 1
+loop took about 0.00460 seconds
+
+Run number: 2
+loop took about 0.00539 seconds
+
+Run number: 3
+loop took about 0.00518 seconds
+
+Run number: 4
+loop took about 0.00579 seconds
+
+Run number: 5
+loop took about 0.00612 seconds
+
+Run number: 6
+loop took about 0.00466 seconds
+
+Run number: 7
+loop took about 0.00579 seconds
+
+Run number: 8
+loop took about 0.00607 seconds
+
+Run number: 9
+loop took about 0.00611 seconds
+
+Run number: 10
+loop took about 0.00632 seconds
+
+Run number: 11
+loop took about 0.00651 seconds
+
+Run number: 12
+loop took about 0.00655 seconds
+
+Run number: 13
+loop took about 0.00669 seconds
+
+Run number: 14
+loop took about 0.00707 seconds
+
+Run number: 15
+loop took about 0.00464 seconds
+
+Run number: 16
+loop took about 0.00648 seconds
+
+Run number: 17
+loop took about 0.00686 seconds
+
+Run number: 18
+loop took about 0.00686 seconds
+
+Run number: 19
+loop took about 0.00461 seconds
+
+Iterations 10000000 completed
+Beginning data collection for 100000000 iterations
+Run number: 0
+loop took about 0.04766 seconds
+
+Run number: 1
+loop took about 0.04662 seconds
+
+Run number: 2
+loop took about 0.04649 seconds
+
+Run number: 3
+loop took about 0.04694 seconds
+
+Run number: 4
+loop took about 0.04830 seconds
+
+Run number: 5
+loop took about 0.04708 seconds
+
+Run number: 6
+loop took about 0.04994 seconds
+
+Run number: 7
+loop took about 0.05268 seconds
+
+Run number: 8
+loop took about 0.05144 seconds
+
+Run number: 9
+loop took about 0.05610 seconds
+
+Run number: 10
+loop took about 0.04677 seconds
+
+Run number: 11
+loop took about 0.04979 seconds
+
+Run number: 12
+loop took about 0.04636 seconds
+
+Run number: 13
+loop took about 0.04697 seconds
+
+Run number: 14
+loop took about 0.04789 seconds
+
+Run number: 15
+loop took about 0.04830 seconds
+
+Run number: 16
+loop took about 0.05232 seconds
+
+Run number: 17
+loop took about 0.04737 seconds
+
+Run number: 18
+loop took about 0.04965 seconds
+
+Run number: 19
+loop took about 0.04776 seconds
+
+Iterations 100000000 completed
+Beginning data collection for 1000000000 iterations
+Run number: 0
+loop took about 0.49633 seconds
+
+Run number: 1
+loop took about 0.47790 seconds
+
+Run number: 2
+loop took about 0.49504 seconds
+
+Run number: 3
+loop took about 0.48418 seconds
+
+Run number: 4
+loop took about 0.46713 seconds
+
+Run number: 5
+loop took about 0.47677 seconds
+
+Run number: 6
+loop took about 0.51180 seconds
+
+Run number: 7
+loop took about 0.48159 seconds
+
+Run number: 8
+loop took about 0.47243 seconds
+
+Run number: 9
+loop took about 0.47996 seconds
+
+Run number: 10
+loop took about 0.49944 seconds
+
+Run number: 11
+loop took about 0.49670 seconds
+
+Run number: 12
+loop took about 0.50728 seconds
+
+Run number: 13
+loop took about 0.48655 seconds
+
+Run number: 14
+loop took about 0.49003 seconds
+
+Run number: 15
+loop took about 0.50834 seconds
+
+Run number: 16
+loop took about 0.46385 seconds
+
+Run number: 17
+loop took about 0.48759 seconds
+
+Run number: 18
+loop took about 0.49388 seconds
+
+Run number: 19
+loop took about 0.48044 seconds
+
+Iterations 1000000000 completed
+Beginning data collection for 10000000000 iterations
+Run number: 0
+loop took about 0.71993 seconds
+
+Run number: 1
+loop took about 0.66594 seconds
+
+Run number: 2
+loop took about 0.69060 seconds
+
+Run number: 3
+loop took about 0.68844 seconds
+
+Run number: 4
+loop took about 0.67797 seconds
+
+Run number: 5
+loop took about 0.68886 seconds
+
+Run number: 6
+loop took about 0.69705 seconds
+
+Run number: 7
+loop took about 0.69122 seconds
+
+Run number: 8
+loop took about 0.65136 seconds
+
+Run number: 9
+loop took about 0.66960 seconds
+
+Run number: 10
+loop took about 0.68893 seconds
+
+Run number: 11
+loop took about 0.65775 seconds
+
+Run number: 12
+loop took about 0.70672 seconds
+
+Run number: 13
+loop took about 0.70895 seconds
+
+Run number: 14
+loop took about 0.69471 seconds
+
+Run number: 15
+loop took about 0.66869 seconds
+
+Run number: 16
+loop took about 0.67082 seconds
+
+Run number: 17
+loop took about 0.67737 seconds
+
+Run number: 18
+loop took about 0.68654 seconds
+
+Run number: 19
+loop took about 0.69482 seconds
+
+Iterations 10000000000 completed
