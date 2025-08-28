@@ -1,0 +1,1098 @@
+Beginning data collection for 100 iterations
+Run number: 0
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 1
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 2
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 3
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 4
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+
+Run number: 5
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.002s
+
+Run number: 7
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 8
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.001s
+
+Run number: 9
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 10
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 11
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 13
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 14
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 15
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 17
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 18
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 19
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Iterations 100 completed
+Beginning data collection for 1000 iterations
+Run number: 0
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 2
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 4
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 5
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 6
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 7
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 9
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 10
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 11
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 12
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 14
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 15
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 18
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 19
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Iterations 1000 completed
+Beginning data collection for 10000 iterations
+Run number: 0
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 1
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 2
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 5
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 6
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 7
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 9
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 10
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 11
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 14
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 15
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 19
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Iterations 10000 completed
+Beginning data collection for 100000 iterations
+Run number: 0
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 2
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 5
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 7
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 9
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 10
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 11
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 14
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 15
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Run number: 19
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+
+Iterations 100000 completed
+Beginning data collection for 1000000 iterations
+Run number: 0
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 2
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 5
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 6
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+
+Run number: 7
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 9
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 10
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 11
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 12
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+Run number: 14
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 15
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+Run number: 16
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 17
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Run number: 19
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+
+Iterations 1000000 completed
+Beginning data collection for 10000000 iterations
+Run number: 0
+
+real	0m0.006s
+user	0m0.005s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 2
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.007s
+user	0m0.006s
+sys	0m0.001s
+
+Run number: 4
+
+real	0m0.007s
+user	0m0.005s
+sys	0m0.002s
+
+Run number: 5
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.008s
+user	0m0.007s
+sys	0m0.000s
+
+Run number: 7
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.008s
+user	0m0.006s
+sys	0m0.002s
+
+Run number: 9
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
+
+Run number: 10
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
+
+Run number: 11
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+
+Run number: 12
+
+real	0m0.006s
+user	0m0.005s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 14
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+
+Run number: 15
+
+real	0m0.007s
+user	0m0.006s
+sys	0m0.001s
+
+Run number: 16
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 17
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 18
+
+real	0m0.007s
+user	0m0.006s
+sys	0m0.000s
+
+Run number: 19
+
+real	0m0.007s
+user	0m0.007s
+sys	0m0.000s
+
+Iterations 10000000 completed
+Beginning data collection for 100000000 iterations
+Run number: 0
+
+real	0m0.049s
+user	0m0.049s
+sys	0m0.000s
+
+Run number: 1
+
+real	0m0.051s
+user	0m0.050s
+sys	0m0.001s
+
+Run number: 2
+
+real	0m0.050s
+user	0m0.049s
+sys	0m0.001s
+
+Run number: 3
+
+real	0m0.050s
+user	0m0.049s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.048s
+user	0m0.048s
+sys	0m0.000s
+
+Run number: 5
+
+real	0m0.048s
+user	0m0.046s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.050s
+user	0m0.050s
+sys	0m0.000s
+
+Run number: 7
+
+real	0m0.053s
+user	0m0.052s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.050s
+user	0m0.049s
+sys	0m0.002s
+
+Run number: 9
+
+real	0m0.047s
+user	0m0.046s
+sys	0m0.001s
+
+Run number: 10
+
+real	0m0.048s
+user	0m0.047s
+sys	0m0.001s
+
+Run number: 11
+
+real	0m0.048s
+user	0m0.047s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.053s
+user	0m0.053s
+sys	0m0.000s
+
+Run number: 13
+
+real	0m0.053s
+user	0m0.052s
+sys	0m0.001s
+
+Run number: 14
+
+real	0m0.052s
+user	0m0.052s
+sys	0m0.000s
+
+Run number: 15
+
+real	0m0.049s
+user	0m0.048s
+sys	0m0.001s
+
+Run number: 16
+
+real	0m0.056s
+user	0m0.055s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.050s
+user	0m0.049s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.048s
+user	0m0.046s
+sys	0m0.001s
+
+Run number: 19
+
+real	0m0.050s
+user	0m0.048s
+sys	0m0.001s
+
+Iterations 100000000 completed
+Beginning data collection for 1000000000 iterations
+Run number: 0
+
+real	0m0.474s
+user	0m0.473s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.464s
+user	0m0.463s
+sys	0m0.001s
+
+Run number: 2
+
+real	0m0.487s
+user	0m0.487s
+sys	0m0.000s
+
+Run number: 3
+
+real	0m0.465s
+user	0m0.464s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.506s
+user	0m0.505s
+sys	0m0.001s
+
+Run number: 5
+
+real	0m0.466s
+user	0m0.464s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.498s
+user	0m0.496s
+sys	0m0.001s
+
+Run number: 7
+
+real	0m0.480s
+user	0m0.479s
+sys	0m0.000s
+
+Run number: 8
+
+real	0m0.470s
+user	0m0.469s
+sys	0m0.000s
+
+Run number: 9
+
+real	0m0.488s
+user	0m0.487s
+sys	0m0.000s
+
+Run number: 10
+
+real	0m0.480s
+user	0m0.478s
+sys	0m0.001s
+
+Run number: 11
+
+real	0m0.502s
+user	0m0.501s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.486s
+user	0m0.485s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.510s
+user	0m0.507s
+sys	0m0.002s
+
+Run number: 14
+
+real	0m0.489s
+user	0m0.489s
+sys	0m0.000s
+
+Run number: 15
+
+real	0m0.488s
+user	0m0.488s
+sys	0m0.000s
+
+Run number: 16
+
+real	0m0.483s
+user	0m0.482s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.492s
+user	0m0.491s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.481s
+user	0m0.480s
+sys	0m0.001s
+
+Run number: 19
+
+real	0m0.479s
+user	0m0.478s
+sys	0m0.000s
+
+Iterations 1000000000 completed
+Beginning data collection for 10000000000 iterations
+Run number: 0
+
+real	0m0.657s
+user	0m0.656s
+sys	0m0.001s
+
+Run number: 1
+
+real	0m0.699s
+user	0m0.699s
+sys	0m0.000s
+
+Run number: 2
+
+real	0m0.672s
+user	0m0.670s
+sys	0m0.001s
+
+Run number: 3
+
+real	0m0.663s
+user	0m0.662s
+sys	0m0.000s
+
+Run number: 4
+
+real	0m0.683s
+user	0m0.682s
+sys	0m0.000s
+
+Run number: 5
+
+real	0m0.657s
+user	0m0.655s
+sys	0m0.001s
+
+Run number: 6
+
+real	0m0.679s
+user	0m0.678s
+sys	0m0.001s
+
+Run number: 7
+
+real	0m0.698s
+user	0m0.696s
+sys	0m0.001s
+
+Run number: 8
+
+real	0m0.685s
+user	0m0.684s
+sys	0m0.001s
+
+Run number: 9
+
+real	0m0.664s
+user	0m0.663s
+sys	0m0.001s
+
+Run number: 10
+
+real	0m0.700s
+user	0m0.698s
+sys	0m0.002s
+
+Run number: 11
+
+real	0m0.659s
+user	0m0.657s
+sys	0m0.001s
+
+Run number: 12
+
+real	0m0.697s
+user	0m0.696s
+sys	0m0.001s
+
+Run number: 13
+
+real	0m0.684s
+user	0m0.684s
+sys	0m0.000s
+
+Run number: 14
+
+real	0m0.664s
+user	0m0.662s
+sys	0m0.001s
+
+Run number: 15
+
+real	0m0.678s
+user	0m0.677s
+sys	0m0.001s
+
+Run number: 16
+
+real	0m0.658s
+user	0m0.657s
+sys	0m0.001s
+
+Run number: 17
+
+real	0m0.707s
+user	0m0.706s
+sys	0m0.001s
+
+Run number: 18
+
+real	0m0.665s
+user	0m0.664s
+sys	0m0.000s
+
+Run number: 19
+
+real	0m0.684s
+user	0m0.683s
+sys	0m0.001s
+
+Iterations 10000000000 completed
