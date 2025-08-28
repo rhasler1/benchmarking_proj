@@ -1,0 +1,243 @@
+Benchmarking getpid()
+Run number: 0
+
+getpid() took about 0.00001 seconds
+
+Run number: 1
+
+getpid() took about 0.00001 seconds
+
+Run number: 2
+
+getpid() took about 0.00001 seconds
+
+Run number: 3
+
+getpid() took about 0.00001 seconds
+
+Run number: 4
+
+getpid() took about 0.00001 seconds
+
+Run number: 5
+
+getpid() took about 0.00001 seconds
+
+Run number: 6
+
+getpid() took about 0.00001 seconds
+
+Run number: 7
+
+getpid() took about 0.00001 seconds
+
+Run number: 8
+
+getpid() took about 0.00001 seconds
+
+Run number: 9
+
+getpid() took about 0.00000 seconds
+
+Run number: 10
+
+getpid() took about 0.00000 seconds
+
+Run number: 11
+
+getpid() took about 0.00000 seconds
+
+Run number: 12
+
+getpid() took about 0.00001 seconds
+
+Run number: 13
+
+getpid() took about 0.00000 seconds
+
+Run number: 14
+
+getpid() took about 0.00000 seconds
+
+Run number: 15
+
+getpid() took about 0.00000 seconds
+
+Run number: 16
+
+getpid() took about 0.00000 seconds
+
+Run number: 17
+
+getpid() took about 0.00000 seconds
+
+Run number: 18
+
+getpid() took about 0.00000 seconds
+
+Run number: 19
+
+getpid() took about 0.00000 seconds
+
+Benchmarking fork()
+Run number: 0
+
+fork() took about 0.00013 seconds
+
+Run number: 1
+
+fork() took about 0.00008 seconds
+
+Run number: 2
+
+fork() took about 0.00008 seconds
+
+Run number: 3
+
+fork() took about 0.00009 seconds
+
+Run number: 4
+
+fork() took about 0.00009 seconds
+
+Run number: 5
+
+fork() took about 0.00010 seconds
+
+Run number: 6
+
+fork() took about 0.00008 seconds
+
+Run number: 7
+
+fork() took about 0.00009 seconds
+
+Run number: 8
+
+fork() took about 0.00009 seconds
+
+Run number: 9
+
+fork() took about 0.00008 seconds
+
+Run number: 10
+
+fork() took about 0.00008 seconds
+
+Run number: 11
+
+fork() took about 0.00008 seconds
+
+Run number: 12
+
+fork() took about 0.00009 seconds
+
+Run number: 13
+
+fork() took about 0.00008 seconds
+
+Run number: 14
+
+fork() took about 0.00018 seconds
+
+Run number: 15
+
+fork() took about 0.00008 seconds
+
+Run number: 16
+
+fork() took about 0.00009 seconds
+
+Run number: 17
+
+fork() took about 0.00007 seconds
+
+Run number: 18
+
+fork() took about 0.00009 seconds
+
+Run number: 19
+
+fork() took about 0.00009 seconds
+
+Benchmarking open() in read mode
+Run number: 0
+
+open() took about 0.00003 seconds
+
+Run number: 1
+
+open() took about 0.00003 seconds
+
+Run number: 2
+
+open() took about 0.00003 seconds
+
+Run number: 3
+
+open() took about 0.00003 seconds
+
+Run number: 4
+
+open() took about 0.00003 seconds
+
+Run number: 5
+
+open() took about 0.00005 seconds
+
+Run number: 6
+
+open() took about 0.00003 seconds
+
+Run number: 7
+
+open() took about 0.00002 seconds
+
+Run number: 8
+
+open() took about 0.00003 seconds
+
+Run number: 9
+
+open() took about 0.00003 seconds
+
+Run number: 10
+
+open() took about 0.00003 seconds
+
+Run number: 11
+
+open() took about 0.00003 seconds
+
+Run number: 12
+
+open() took about 0.00004 seconds
+
+Run number: 13
+
+open() took about 0.00002 seconds
+
+Run number: 14
+
+open() took about 0.00002 seconds
+
+Run number: 15
+
+open() took about 0.00003 seconds
+
+Run number: 16
+
+open() took about 0.00003 seconds
+
+Run number: 17
+
+open() took about 0.00003 seconds
+
+Run number: 18
+
+open() took about 0.00003 seconds
+
+Run number: 19
+
+open() took about 0.00002 seconds
+

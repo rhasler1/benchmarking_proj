@@ -3,7 +3,11 @@
 #include <unistd.h>
 #include <time.h>
 
-static const char *GET_PID = "getpid()";
+static char *GET_PID = "getpid()";
+static char *FORK = "fork()";
+static char *OPEN = "open()";
+
+static const char *FILE_PATH = "./dummy_file.txt";
 
 int main(int argc, char** argv)
 {
@@ -25,9 +29,40 @@ int main(int argc, char** argv)
         clock_gettime(CLOCK_MONOTONIC, &tend);
     }
 
-    if (state == 1) {}
+    if (state == 1) {
+        test = FORK;
+	clock_gettime(CLOCK_MONOTONIC, &tstart);
 
-    if (state == 2) {}
+	int child_pid = fork();
+
+	if (child_pid == -1) { // fork failed
+	    // terminate parent process
+	    exit(1);
+	}
+
+	if (child_pid > 0) { // then parent	
+	    // record end time
+	    clock_gettime(CLOCK_MONOTONIC, &tend);
+	}
+
+	if (child_pid == 0) { // then child
+	    // terminate subprocess
+	    exit(1);
+	}
+    }
+
+    if (state == 2) {
+        test = OPEN;
+	clock_gettime(CLOCK_MONOTONIC, &tstart);
+
+	FILE *fptr;
+	fptr = fopen(FILE_PATH, "r");
+	if (fptr == NULL) { // fopen failed
+	    exit(1);
+	}
+
+        clock_gettime(CLOCK_MONOTONIC, &tend);
+    }
 
     printf("\n");
     printf("%s took about %.5f seconds\n", test,
