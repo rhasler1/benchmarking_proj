@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <math.h>
 
 #define PARENTSOCKET 0
 #define CHILDSOCKET 1
@@ -122,13 +123,14 @@ int main(int argc, char** argv)
 {
     if (argc != 3) return 1;
     int n = atoi(argv[1]);              // length of message
-    int size = n*sizeof(char);          // size of message in bytes
-    int state = atoi(argv[2]);          // benchmark to run: 0=message_latency; 1=throughput
-
-    double *times = malloc(size*sizeof(double));
+    int size = n*sizeof(char);          // size of message in bytes 
     char *rbuffer = malloc(size);       // buffer for receiving message
     char *sbuffer = malloc(size);       // buffer for sending message
+    
+    double *times = malloc(TOTAL_ITERATIONS*sizeof(double));
     populate_buffer(sbuffer, n);        // populates send buffer (see function)
+    
+    int state = atoi(argv[2]);          // benchmark to run: 0=message_latency; 1=throughput
 
     if (state == 0) {
         printf("Starting message latency test...\n");
@@ -153,7 +155,7 @@ int main(int argc, char** argv)
                 TOTAL_ITERATIONS);
         printf("Time collected at all iterations:\n");
         for (i=0;i<TOTAL_ITERATIONS;i++) {
-            printf("i: %d, %.9f\n", i, times[i]);
+            printf("i: %d,\t%.9f\n", i, times[i]);
         }
     }
 
@@ -167,22 +169,32 @@ int main(int argc, char** argv)
         for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) {
             sum_throughput += times[i];
         }
+        // avg
         double avg_throughput = sum_throughput / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-        
+        // stddev
+        double stddev;
+        for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) {
+            stddev += (times[i] - avg_throughput) * (times[i] - avg_throughput); 
+        }
+        stddev = stddev / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
+        stddev = sqrt(stddev);
+
         // print
         printf("Total Iterations: %d, Warmup Iterations: %d, Message Size in Bytes: %d\n",
                 TOTAL_ITERATIONS,
                 WARMUP_ITERATIONS,
                 size);
-        printf("Average throughput: %.9f from iteration %d to iteration %d",
+        printf("Average throughput: %.9f, stddev: %.9f from iteration %d to iteration %d\n",
                 avg_throughput,
+                stddev,
                 WARMUP_ITERATIONS,
                 TOTAL_ITERATIONS);
         printf("Time collected at all iterations:\n");
         for (i=0;i<TOTAL_ITERATIONS;i++) {
-            printf("i: %d, %.9f\n", i, times[i]);
+            printf("i: %d,\t%.9f\n", i, times[i]);
         }
     }
 
+    printf("\n");
     return 0;
 }

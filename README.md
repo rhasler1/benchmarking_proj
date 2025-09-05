@@ -21,6 +21,6 @@ Vendor ID:                ARM
 ### Target Device (Pi5) RAM: 8GB
 
 ### TODO:
-- isolate core
+- generalize mean and stddev calculations and move to common/
 - create plots
 - write paper
