@@ -75,7 +75,7 @@ double throughput(
         int size)
 {
     struct timespec tstart={0,0}, tend={0,0};
-    double send_latency = 0.0;                  // return var
+    double throughput = 0.0;                  // return var
 
     //PF_LOCAL=local socket, no networking
     //SOCK_STREAM=bidirectional byte stream communication (like TCP)
@@ -105,13 +105,14 @@ double throughput(
         close(fd[PARENTSOCKET]);
 
         // time
-        double total_latency =
+        double total_time =
             (((double)tend.tv_sec + 1.0e-9*tend.tv_nsec) -
             ((double)tstart.tv_sec + 1.0e-9*tstart.tv_nsec));
         //printf("Total latency from parent over 1000 iterations: %f\n", total_latency);
-        send_latency = total_latency / 2.0;
+        throughput = (double)size / total_time;
     }
-
+    //printf("throughput before returning: %.9f\n", throughput);
+    return throughput;
 }
 
 static const int TOTAL_ITERATIONS = 25;
@@ -156,7 +157,32 @@ int main(int argc, char** argv)
         }
     }
 
-    //if (state == 1) return throughput()
+    if (state == 1) {
+        printf("Starting throughput test...\n");
+        double sum_throughput;
+        int i;
+        for (i=0;i<TOTAL_ITERATIONS;i++) {
+            times[i] = throughput(rbuffer, sbuffer, size);
+        }
+        for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) {
+            sum_throughput += times[i];
+        }
+        double avg_throughput = sum_throughput / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
+        
+        // print
+        printf("Total Iterations: %d, Warmup Iterations: %d, Message Size in Bytes: %d\n",
+                TOTAL_ITERATIONS,
+                WARMUP_ITERATIONS,
+                size);
+        printf("Average throughput: %.9f from iteration %d to iteration %d",
+                avg_throughput,
+                WARMUP_ITERATIONS,
+                TOTAL_ITERATIONS);
+        printf("Time collected at all iterations:\n");
+        for (i=0;i<TOTAL_ITERATIONS;i++) {
+            printf("i: %d, %.9f\n", i, times[i]);
+        }
+    }
 
     return 0;
 }
