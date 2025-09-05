@@ -19,3 +19,8 @@ Vendor ID:                ARM
     CPU min MHz:          1500.0000
 
 ### Target Device (Pi5) RAM: 8GB
+
+### TODO:
+- isolate core
+- create plots
+- write paper
