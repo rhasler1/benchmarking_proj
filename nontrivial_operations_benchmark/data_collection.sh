@@ -2,31 +2,11 @@
 
 EXECUTABLE="./nontrivial_ops_run"
 OUTPUT="results.txt"
-ITERATIONS=0
 
 echo "Starting $EXECUTABLE, output directed to $OUTPUT"
-
-# benchmark getpid()
 {
-echo "Benchmarking getpid()"
-for ((i=0;i<20;i++)); do
-	echo "Run number: $i"
-	$EXECUTABLE 0
-	echo
-done
-
-echo "Benchmarking fork()"
-for ((i=0;i<20;i++)); do
-	echo "Run number: $i"
-	$EXECUTABLE 1
-	echo
-done
-
-echo "Benchmarking open() in read mode"
-for ((i=0;i<20;i++)); do
-	echo "Run number: $i"
-	$EXECUTABLE 2
-	echo
-done
+$EXECUTABLE 0
+$EXECUTABLE 1
+$EXECUTABLE 2
 } >> $OUTPUT 2>&1
 echo "Done"
