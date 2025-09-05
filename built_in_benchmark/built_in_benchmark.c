@@ -7,13 +7,14 @@ static const int ITERATIONS = 20;
 
 int main(int argc, char** argv) {
     if (argc != 2) return 1;
-
     int n = atoi(argv[1]);                                      // loop length
+                                                                //
     double* times = malloc(ITERATIONS*sizeof(double));          // store for times across runs
     struct timespec tstart={0,0}, tend={0,0};                   // struct for interacting with clock_gettime
     
     int i;
     int k;
+
     for (i=0;i<ITERATIONS;i++) {
         clock_gettime(CLOCK_MONOTONIC, &tstart);
         for (k=0;k<n;k++) {
@@ -50,5 +51,12 @@ int main(int argc, char** argv) {
             avg,
             stddev);
 
+    // individual times
+    printf("\n\n");
+    for (i=0;i<ITERATIONS;i++) {
+        printf("i: %d, %.9f\n", i, times[i]);
+    }
+
+    printf("\n");
     return 0;
 }

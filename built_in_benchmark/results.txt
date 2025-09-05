@@ -1,9 +1,0 @@
-loop length: 100, mean: 0.000000229, stddev: 0.000000093
-loop length: 1000, mean: 0.000001341, stddev: 0.000000090
-loop length: 10000, mean: 0.000012617, stddev: 0.000000089
-loop length: 100000, mean: 0.000128892, stddev: 0.000005511
-loop length: 1000000, mean: 0.001249092, stddev: 0.000132374
-loop length: 10000000, mean: 0.004912276, stddev: 0.000463293
-loop length: 100000000, mean: 0.047021956, stddev: 0.001441239
-loop length: 1000000000, mean: 0.480997836, stddev: 0.011344130
-loop length: 1410065408, mean: 0.663369209, stddev: 0.010301112

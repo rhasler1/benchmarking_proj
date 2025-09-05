@@ -18,17 +18,15 @@ static const int WARMUP_ITERATIONS = 5;
 int main(int argc, char** argv)
 {
     if (argc != 2) return 1;
-
     int state;                                          // 0=getpid(), 1=fork(), 2=fopen()
     state = atoi(argv[1]);
-    
     if (state < 0 || state > 2) return 2;
 
-    struct timespec tstart={0,0}, tend={0,0};
-   
+    struct timespec tstart={0,0}, tend={0,0}; 
+    double* times = malloc(TOTAL_ITERATIONS*sizeof(double));
+
     char* test;                                         // ptr to test name
     int i;
-    double* times = malloc(TOTAL_ITERATIONS*sizeof(double));
 
     if (state == 0) {
         test = GET_PID;
