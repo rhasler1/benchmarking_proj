@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include "formula.h"
 
 #define PARENTSOCKET 0
 #define CHILDSOCKET 1
@@ -143,14 +144,18 @@ int main(int argc, char** argv)
             send_latency += times[i];
         }
         double avg_latency = send_latency / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-        //TODO: calculate stddev
+        double stddev = find_stddev(
+                &times[WARMUP_ITERATIONS],
+                (TOTAL_ITERATIONS-WARMUP_ITERATIONS),
+                avg_latency);
         //print
         printf("Total Iterations: %d, Warmup Iterations: %d, Message Size in Bytes: %d\n",
                 TOTAL_ITERATIONS,
                 WARMUP_ITERATIONS,
                 size);
-        printf("Avg Latency: %.9f from iteration %d to iteration %d\n\n",
+        printf("Avg Latency: %.9f, stddev: %.9f from iteration %d to iteration %d\n\n",
                 avg_latency,
+                stddev,
                 WARMUP_ITERATIONS,
                 TOTAL_ITERATIONS);
         printf("Time collected at all iterations:\n");
@@ -171,14 +176,10 @@ int main(int argc, char** argv)
         }
         // avg
         double avg_throughput = sum_throughput / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-        // stddev
-        double stddev;
-        for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) {
-            stddev += (times[i] - avg_throughput) * (times[i] - avg_throughput); 
-        }
-        stddev = stddev / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-        stddev = sqrt(stddev);
-
+        double stddev = find_stddev(
+                &times[WARMUP_ITERATIONS],
+                (TOTAL_ITERATIONS-WARMUP_ITERATIONS),
+                avg_throughput);
         // print
         printf("Total Iterations: %d, Warmup Iterations: %d, Message Size in Bytes: %d\n",
                 TOTAL_ITERATIONS,
