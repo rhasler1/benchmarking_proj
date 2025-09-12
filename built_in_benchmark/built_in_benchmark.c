@@ -42,6 +42,7 @@ int main(int argc, char** argv) {
         printf("i: %d,\t%.9f\n", i, times[i]);
     }
 
+    free(times);
     printf("\n");
     return 0;
 }

@@ -3,37 +3,37 @@ Run number: 0
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 1
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 2
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.001s
+sys	0m0.001s
 
 Run number: 3
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 4
 
 real	0m0.002s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.001s
 
 Run number: 5
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 6
 
@@ -51,25 +51,25 @@ Run number: 8
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 9
 
 real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 10
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 11
 
-real	0m0.002s
+real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 12
 
@@ -80,8 +80,8 @@ sys	0m0.001s
 Run number: 13
 
 real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.001s
 
 Run number: 14
 
@@ -110,8 +110,8 @@ sys	0m0.001s
 Run number: 18
 
 real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 19
 
@@ -136,8 +136,8 @@ sys	0m0.001s
 Run number: 2
 
 real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 3
 
@@ -149,25 +149,25 @@ Run number: 4
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.000s
+sys	0m0.001s
 
 Run number: 5
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 6
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 7
 
 real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.001s
 
 Run number: 8
 
@@ -179,7 +179,7 @@ Run number: 9
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 10
 
@@ -191,7 +191,7 @@ Run number: 11
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 12
 
@@ -215,7 +215,7 @@ Run number: 15
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 16
 
@@ -233,13 +233,13 @@ Run number: 18
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 19
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
 
 Iterations 1000 completed
 Beginning data collection for 10000 iterations
@@ -252,8 +252,8 @@ sys	0m0.000s
 Run number: 1
 
 real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 2
 
@@ -282,8 +282,8 @@ sys	0m0.001s
 Run number: 6
 
 real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.001s
 
 Run number: 7
 
@@ -295,7 +295,7 @@ Run number: 8
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 9
 
@@ -318,14 +318,14 @@ sys	0m0.002s
 Run number: 12
 
 real	0m0.001s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 13
 
 real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 
 Run number: 14
 
@@ -337,7 +337,7 @@ Run number: 15
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 16
 
@@ -349,19 +349,19 @@ Run number: 17
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 18
 
 real	0m0.001s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 19
 
 real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 
 Iterations 10000 completed
 Beginning data collection for 100000 iterations
@@ -374,38 +374,38 @@ sys	0m0.001s
 Run number: 1
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.001s
+sys	0m0.001s
 
 Run number: 2
 
 real	0m0.002s
-user	0m0.000s
+user	0m0.001s
 sys	0m0.001s
 
 Run number: 3
 
 real	0m0.002s
-user	0m0.001s
-sys	0m0.001s
+user	0m0.000s
+sys	0m0.002s
 
 Run number: 4
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.001s
 
 Run number: 5
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.001s
+sys	0m0.001s
 
 Run number: 6
 
 real	0m0.002s
 user	0m0.001s
-sys	0m0.000s
+sys	0m0.001s
 
 Run number: 7
 
@@ -421,15 +421,15 @@ sys	0m0.001s
 
 Run number: 9
 
-real	0m0.001s
+real	0m0.002s
 user	0m0.001s
 sys	0m0.000s
 
 Run number: 10
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.001s
+sys	0m0.001s
 
 Run number: 11
 
@@ -439,27 +439,27 @@ sys	0m0.002s
 
 Run number: 12
 
-real	0m0.001s
+real	0m0.002s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 13
 
 real	0m0.002s
 user	0m0.000s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 14
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 15
 
 real	0m0.002s
-user	0m0.001s
-sys	0m0.001s
+user	0m0.000s
+sys	0m0.002s
 
 Run number: 16
 
@@ -469,35 +469,35 @@ sys	0m0.001s
 
 Run number: 17
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.001s
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
 
 Run number: 18
 
 real	0m0.002s
-user	0m0.001s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 
 Run number: 19
 
 real	0m0.002s
-user	0m0.001s
-sys	0m0.001s
+user	0m0.000s
+sys	0m0.002s
 
 Iterations 100000 completed
 Beginning data collection for 1000000 iterations
 Run number: 0
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.004s
+sys	0m0.000s
 
 Run number: 1
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.002s
+sys	0m0.002s
 
 Run number: 2
 
@@ -507,21 +507,21 @@ sys	0m0.001s
 
 Run number: 3
 
-real	0m0.005s
-user	0m0.003s
+real	0m0.004s
+user	0m0.002s
 sys	0m0.001s
 
 Run number: 4
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.004s
+sys	0m0.000s
 
 Run number: 5
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.004s
+sys	0m0.000s
 
 Run number: 6
 
@@ -539,61 +539,61 @@ Run number: 8
 
 real	0m0.004s
 user	0m0.003s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 9
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.002s
+sys	0m0.002s
 
 Run number: 10
 
-real	0m0.005s
+real	0m0.004s
 user	0m0.003s
 sys	0m0.001s
 
 Run number: 11
 
-real	0m0.004s
+real	0m0.005s
 user	0m0.003s
 sys	0m0.001s
 
 Run number: 12
 
-real	0m0.004s
+real	0m0.005s
 user	0m0.003s
 sys	0m0.001s
 
 Run number: 13
 
 real	0m0.004s
-user	0m0.004s
-sys	0m0.000s
+user	0m0.003s
+sys	0m0.001s
 
 Run number: 14
 
 real	0m0.004s
 user	0m0.003s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 15
 
 real	0m0.004s
-user	0m0.003s
+user	0m0.002s
 sys	0m0.001s
 
 Run number: 16
 
 real	0m0.004s
 user	0m0.002s
-sys	0m0.001s
+sys	0m0.002s
 
 Run number: 17
 
 real	0m0.004s
-user	0m0.003s
-sys	0m0.001s
+user	0m0.002s
+sys	0m0.002s
 
 Run number: 18
 
@@ -604,27 +604,27 @@ sys	0m0.001s
 Run number: 19
 
 real	0m0.004s
-user	0m0.004s
-sys	0m0.000s
+user	0m0.003s
+sys	0m0.001s
 
 Iterations 1000000 completed
 Beginning data collection for 10000000 iterations
 Run number: 0
 
-real	0m0.028s
-user	0m0.028s
-sys	0m0.000s
+real	0m0.027s
+user	0m0.025s
+sys	0m0.001s
 
 Run number: 1
 
-real	0m0.025s
-user	0m0.024s
+real	0m0.026s
+user	0m0.025s
 sys	0m0.001s
 
 Run number: 2
 
-real	0m0.026s
-user	0m0.025s
+real	0m0.025s
+user	0m0.024s
 sys	0m0.001s
 
 Run number: 3
@@ -635,45 +635,45 @@ sys	0m0.001s
 
 Run number: 4
 
-real	0m0.026s
-user	0m0.025s
+real	0m0.024s
+user	0m0.023s
 sys	0m0.001s
 
 Run number: 5
 
-real	0m0.025s
-user	0m0.023s
+real	0m0.026s
+user	0m0.024s
 sys	0m0.001s
 
 Run number: 6
 
 real	0m0.025s
-user	0m0.023s
+user	0m0.024s
 sys	0m0.001s
 
 Run number: 7
 
 real	0m0.026s
-user	0m0.025s
-sys	0m0.001s
+user	0m0.026s
+sys	0m0.000s
 
 Run number: 8
 
-real	0m0.025s
-user	0m0.024s
+real	0m0.026s
+user	0m0.025s
 sys	0m0.001s
 
 Run number: 9
 
-real	0m0.027s
-user	0m0.026s
-sys	0m0.001s
+real	0m0.025s
+user	0m0.023s
+sys	0m0.002s
 
 Run number: 10
 
-real	0m0.024s
-user	0m0.024s
-sys	0m0.000s
+real	0m0.026s
+user	0m0.025s
+sys	0m0.001s
 
 Run number: 11
 
@@ -684,18 +684,18 @@ sys	0m0.001s
 Run number: 12
 
 real	0m0.025s
-user	0m0.025s
+user	0m0.024s
 sys	0m0.001s
 
 Run number: 13
 
-real	0m0.025s
-user	0m0.024s
+real	0m0.026s
+user	0m0.025s
 sys	0m0.001s
 
 Run number: 14
 
-real	0m0.026s
+real	0m0.025s
 user	0m0.024s
 sys	0m0.001s
 
@@ -714,51 +714,51 @@ sys	0m0.001s
 Run number: 17
 
 real	0m0.024s
-user	0m0.024s
-sys	0m0.000s
+user	0m0.023s
+sys	0m0.001s
 
 Run number: 18
 
-real	0m0.025s
+real	0m0.024s
 user	0m0.024s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 19
 
-real	0m0.026s
-user	0m0.025s
-sys	0m0.001s
+real	0m0.027s
+user	0m0.024s
+sys	0m0.002s
 
 Iterations 10000000 completed
 Beginning data collection for 100000000 iterations
 Run number: 0
 
 real	0m0.233s
-user	0m0.233s
-sys	0m0.000s
+user	0m0.231s
+sys	0m0.001s
 
 Run number: 1
 
-real	0m0.234s
+real	0m0.233s
 user	0m0.232s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 2
 
 real	0m0.234s
-user	0m0.232s
+user	0m0.233s
 sys	0m0.001s
 
 Run number: 3
 
-real	0m0.235s
-user	0m0.233s
-sys	0m0.001s
+real	0m0.233s
+user	0m0.232s
+sys	0m0.000s
 
 Run number: 4
 
 real	0m0.234s
-user	0m0.233s
+user	0m0.232s
 sys	0m0.001s
 
 Run number: 5
@@ -770,8 +770,8 @@ sys	0m0.001s
 Run number: 6
 
 real	0m0.233s
-user	0m0.233s
-sys	0m0.000s
+user	0m0.232s
+sys	0m0.001s
 
 Run number: 7
 
@@ -781,32 +781,32 @@ sys	0m0.001s
 
 Run number: 8
 
-real	0m0.234s
+real	0m0.235s
 user	0m0.233s
 sys	0m0.001s
 
 Run number: 9
 
 real	0m0.234s
-user	0m0.234s
-sys	0m0.000s
+user	0m0.233s
+sys	0m0.001s
 
 Run number: 10
 
 real	0m0.233s
-user	0m0.231s
+user	0m0.232s
 sys	0m0.001s
 
 Run number: 11
 
-real	0m0.234s
-user	0m0.232s
-sys	0m0.001s
+real	0m0.233s
+user	0m0.233s
+sys	0m0.000s
 
 Run number: 12
 
-real	0m0.234s
-user	0m0.232s
+real	0m0.235s
+user	0m0.234s
 sys	0m0.001s
 
 Run number: 13
@@ -823,21 +823,21 @@ sys	0m0.001s
 
 Run number: 15
 
-real	0m0.235s
-user	0m0.232s
-sys	0m0.002s
+real	0m0.234s
+user	0m0.233s
+sys	0m0.001s
 
 Run number: 16
 
-real	0m0.233s
-user	0m0.231s
+real	0m0.234s
+user	0m0.233s
 sys	0m0.001s
 
 Run number: 17
 
 real	0m0.233s
 user	0m0.232s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 18
 
@@ -847,35 +847,35 @@ sys	0m0.001s
 
 Run number: 19
 
-real	0m0.233s
-user	0m0.232s
-sys	0m0.001s
+real	0m0.234s
+user	0m0.231s
+sys	0m0.002s
 
 Iterations 100000000 completed
 Beginning data collection for 1000000000 iterations
 Run number: 0
 
-real	0m2.317s
-user	0m2.317s
-sys	0m0.000s
+real	0m2.315s
+user	0m2.313s
+sys	0m0.001s
 
 Run number: 1
 
-real	0m2.318s
-user	0m2.316s
+real	0m2.316s
+user	0m2.314s
 sys	0m0.001s
 
 Run number: 2
 
-real	0m2.316s
-user	0m2.315s
-sys	0m0.001s
-
-Run number: 3
-
 real	0m2.315s
 user	0m2.314s
 sys	0m0.000s
+
+Run number: 3
+
+real	0m2.316s
+user	0m2.314s
+sys	0m0.001s
 
 Run number: 4
 
@@ -891,27 +891,27 @@ sys	0m0.000s
 
 Run number: 6
 
-real	0m2.317s
-user	0m2.315s
+real	0m2.316s
+user	0m2.314s
 sys	0m0.001s
 
 Run number: 7
 
-real	0m2.316s
-user	0m2.314s
+real	0m2.318s
+user	0m2.315s
 sys	0m0.001s
 
 Run number: 8
 
 real	0m2.315s
-user	0m2.314s
+user	0m2.313s
 sys	0m0.001s
 
 Run number: 9
 
-real	0m2.315s
+real	0m2.316s
 user	0m2.314s
-sys	0m0.000s
+sys	0m0.001s
 
 Run number: 10
 
@@ -921,178 +921,178 @@ sys	0m0.000s
 
 Run number: 11
 
-real	0m2.315s
-user	0m2.313s
+real	0m2.316s
+user	0m2.315s
 sys	0m0.001s
 
 Run number: 12
 
-real	0m2.317s
+real	0m2.315s
 user	0m2.316s
-sys	0m0.001s
+sys	0m0.000s
 
 Run number: 13
 
 real	0m2.315s
-user	0m2.313s
-sys	0m0.001s
+user	0m2.316s
+sys	0m0.000s
 
 Run number: 14
 
 real	0m2.315s
-user	0m2.314s
-sys	0m0.000s
+user	0m2.315s
+sys	0m0.001s
 
 Run number: 15
 
-real	0m2.315s
-user	0m2.314s
-sys	0m0.000s
+real	0m2.317s
+user	0m2.317s
+sys	0m0.001s
 
 Run number: 16
 
-real	0m2.315s
-user	0m2.314s
+real	0m2.316s
+user	0m2.316s
 sys	0m0.000s
 
 Run number: 17
 
 real	0m2.315s
-user	0m2.313s
-sys	0m0.001s
+user	0m2.316s
+sys	0m0.000s
 
 Run number: 18
 
-real	0m2.316s
-user	0m2.314s
-sys	0m0.002s
+real	0m2.315s
+user	0m2.315s
+sys	0m0.001s
 
 Run number: 19
 
-real	0m2.315s
-user	0m2.313s
+real	0m2.316s
+user	0m2.316s
 sys	0m0.001s
 
 Iterations 1000000000 completed
 Beginning data collection for 10000000000 iterations
 Run number: 0
 
-real	0m3.264s
-user	0m3.262s
-sys	0m0.001s
+real	0m23.131s
+user	0m23.135s
+sys	0m0.000s
 
 Run number: 1
 
-real	0m3.264s
-user	0m3.262s
+real	0m23.133s
+user	0m23.132s
 sys	0m0.001s
 
 Run number: 2
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.135s
+user	0m23.132s
+sys	0m0.001s
 
 Run number: 3
 
-real	0m3.266s
-user	0m3.264s
+real	0m23.136s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 4
 
-real	0m3.265s
-user	0m3.263s
+real	0m23.137s
+user	0m23.130s
 sys	0m0.001s
 
 Run number: 5
 
-real	0m3.265s
-user	0m3.262s
-sys	0m0.002s
+real	0m23.137s
+user	0m23.130s
+sys	0m0.001s
 
 Run number: 6
 
-real	0m3.265s
-user	0m3.263s
+real	0m23.139s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 7
 
-real	0m3.264s
-user	0m3.262s
+real	0m23.139s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 8
 
-real	0m3.265s
-user	0m3.263s
+real	0m23.140s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 9
 
-real	0m3.265s
-user	0m3.263s
+real	0m23.139s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 10
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.135s
+user	0m23.130s
+sys	0m0.001s
 
 Run number: 11
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.135s
+user	0m23.130s
+sys	0m0.001s
 
 Run number: 12
 
-real	0m3.266s
-user	0m3.264s
-sys	0m0.001s
+real	0m23.136s
+user	0m23.131s
+sys	0m0.000s
 
 Run number: 13
 
-real	0m3.266s
-user	0m3.264s
+real	0m23.139s
+user	0m23.133s
 sys	0m0.001s
 
 Run number: 14
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.138s
+user	0m23.130s
+sys	0m0.002s
 
 Run number: 15
 
-real	0m3.264s
-user	0m3.262s
+real	0m23.139s
+user	0m23.132s
 sys	0m0.001s
 
 Run number: 16
 
-real	0m3.264s
-user	0m3.262s
+real	0m23.138s
+user	0m23.131s
 sys	0m0.001s
 
 Run number: 17
 
-real	0m3.264s
-user	0m3.262s
-sys	0m0.001s
+real	0m23.137s
+user	0m23.131s
+sys	0m0.000s
 
 Run number: 18
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.139s
+user	0m23.132s
+sys	0m0.001s
 
 Run number: 19
 
-real	0m3.264s
-user	0m3.263s
-sys	0m0.000s
+real	0m23.138s
+user	0m23.131s
+sys	0m0.001s
 
 Iterations 10000000000 completed
