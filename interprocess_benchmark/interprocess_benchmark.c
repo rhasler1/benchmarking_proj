@@ -117,7 +117,7 @@ double throughput(
     return throughput;
 }
 
-static const int TOTAL_ITERATIONS = 25;
+static const int TOTAL_ITERATIONS = 105;
 static const int WARMUP_ITERATIONS = 5;
 
 int main(int argc, char** argv)

@@ -4,13 +4,14 @@
 #include <time.h>
 #include <math.h>
 #include <sys/wait.h>
+#include "formula.h"
 
 static char *GET_PID = "getpid()";
 static char *FORK = "fork()";
 static char *OPEN = "fopen()";
 static char *FILE_PATH = "./dummy_file.txt";            // used for open test
 
-static const int TOTAL_ITERATIONS = 25;
+static const int TOTAL_ITERATIONS = 105;
 static const int WARMUP_ITERATIONS = 5;
 // the iterations used to calculate mean & stddev
 // is WARMUP_ITERATIONS to TOTAL_ITERATIONS
@@ -78,26 +79,19 @@ int main(int argc, char** argv)
     }
 
     // compute average
-    double sum;
-    double avg;
-    for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) { // skip times collected during warmup iterations
-        sum += times[i]; 
-    }
-    avg = sum / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-
+    double mean = find_mean(&times[WARMUP_ITERATIONS], (TOTAL_ITERATIONS-WARMUP_ITERATIONS));
+    
     // compute standard deviation
-    double stddev;
-    for (i=WARMUP_ITERATIONS;i<TOTAL_ITERATIONS;i++) {
-        stddev += (times[i] - avg) * (times[i] - avg);
-    }
-    stddev = stddev / (double)(TOTAL_ITERATIONS-WARMUP_ITERATIONS);
-    stddev = sqrt(stddev);
-
+    double stddev = find_stddev(
+            &times[WARMUP_ITERATIONS],
+            (TOTAL_ITERATIONS-WARMUP_ITERATIONS),
+             mean);
+    
     // print
-    printf("Total iterations: %d; warmup iterations %d\n", TOTAL_ITERATIONS, WARMUP_ITERATIONS);
+    printf("Total iterations: %d\twarmup iterations %d\n", TOTAL_ITERATIONS, WARMUP_ITERATIONS);
     printf("test: %s\n", test);
-    printf("calculated mean: %.9f, stddev: %.9f over runs %d to %d\n",
-            avg,
+    printf("calculated mean: %.9f,\tstddev: %.9f over runs %d to %d\n",
+            mean,
             stddev,
             WARMUP_ITERATIONS,
             TOTAL_ITERATIONS);
@@ -107,6 +101,7 @@ int main(int argc, char** argv)
         printf("i:%d = %.9f\n", i, times[i]);
     }
 
+    free(times);
     printf("\n");
     return 0;
 }
