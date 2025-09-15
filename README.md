@@ -1,6 +1,16 @@
-# instructions: https://neilklingensmith.com/teaching/loyola/cs410-f2025/homework/benchmarking.pdf
+# Code Repository for Benchmarking Project Paper
 
-### Target Device (Pi5) CPU Info
+## /Common
+Contains mean and standard deviation formulas
+
+## /simple_benchmark, /built_in_benchmark, /nontrivial, & /interprocess
+Contain respective source code, Makefile, and data collection bash script
+
+## /data_file
+Contains output from data_collection scripts when run on target hardware.
+This is the data used in the paper.
+
+### Target Device CPU Info
 Architecture:             aarch64
   CPU op-mode(s):         32-bit, 64-bit
   Byte Order:             Little Endian
@@ -18,9 +28,8 @@ Vendor ID:                ARM
     CPU max MHz:          2400.0000
     CPU min MHz:          1500.0000
 
-### Target Device (Pi5) RAM: 8GB
+RAM:                      8 GB
+SD Card:                  128 GB
 
-### TODO:
-- generalize mean and stddev calculations and move to common/
-- create plots
-- write paper
+#### instructions: https://neilklingensmith.com/teaching/loyola/cs410-f2025/homework/benchmarking.pdf
+
